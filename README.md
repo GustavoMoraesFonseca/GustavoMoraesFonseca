@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gustavo
-- 👀 I’m interested in Back-End e DevOs
+- 👀 I’m interested in Back-End and DevOs
 - 📫 You can reach me with my cellphone number (11)99567-2862 or Email gu.moraes.fonseca@gmail.com
 
 <!---
